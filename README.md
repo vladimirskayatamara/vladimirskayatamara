@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning React and deeping my programming skills in JavaScript
 - 📫 How to reach me: telegram @toma_vl
 
-There're some of my projects: 
-https://vladimirskayatamara.github.io/football-site/
+You can also view some of my coding projects in Codepen: 
 https://codepen.io/tomavl/pen/RwZxxNB
 
 
