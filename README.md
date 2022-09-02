@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vladimirskayatamara
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React and deeping my programming skills in JavaScript
+- 🌱 I’m currently learning Vue.js and deeping my programming skills in JavaScript
 - 📫 How to reach me: telegram @toma_vl
 
 You can also view some of my coding projects in Codepen: 
