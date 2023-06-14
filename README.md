@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @vladimirskayatamara
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React.js and deeping my programming skills in JavaScript
-- 📫 How to reach me: telegram @toma_vl
+## 💫 About Me:
+Passionate and detail-oriented Frontend Developer with a proven track record in performance optimization, user experience, and React.js development. Skilled in improving loading speed, transforming websites, and delivering engaging web applications.<br><br>As a Lead Developer, I streamline processes, accelerate timelines, and mentor teams. With a strong foundation in HTML, CSS, and JavaScript, I create efficient and visually appealing solutions.<br><br>Let's connect and discuss creating exceptional digital experiences!
 
-<!---
-vladimirskayatamara/vladimirskayatamara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
