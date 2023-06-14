@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I'm a frontend developer specializing in improving loading speed, transforming websites, and delivering engaging web applications. I rock at HTML, CSS, React and JavaScript, creating efficient and visually appealing solutions.
+I'm a frontend developer who loves improving loading speed, transforming websites, and delivering engaging web applications. I rock at HTML, CSS, React and JavaScript, creating efficient and visually appealing solutions.
 <br><br>
 I've worked with small startups and big projects, collaborating with teams of up to 50 people. Apart from development, I streamline processes, speed up timelines and mentor teams.
 <br><br>
